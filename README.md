@@ -3,9 +3,9 @@
 <!-- **YlvaEvenrud/YlvaEvenrud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## Currently:
-- 🔭 I’m currently working on my **portfolio**
-- 🌱 I’m currently learning **C#, pipelines and react**
-- 📫 How to reach me: **yevenrud@gmail.com **
+- 🔭 **I’m currently working on** my portfolio
+- 🌱 **I’m currently learning** C#, pipelines and react
+- 📫 **How to reach me:** yevenrud@gmail.com
 
 <!-- 
 - 💬 Ask me about ... 
